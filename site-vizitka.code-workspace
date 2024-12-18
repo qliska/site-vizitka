@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../GS. Web vyvoj/urok9/site-vizitka/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "site-vizitka"
+	}
+}
