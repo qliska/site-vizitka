@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "site-vizitka"
+		"liveServer.settings.multiRootWorkspaceName": "site-vizitka",
+		"liveServer.settings.port": 5501
 	}
 }
